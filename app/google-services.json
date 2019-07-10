@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443587326134",
+    "firebase_url": "https://todolotto-a18aa.firebaseio.com",
+    "project_id": "todolotto-a18aa",
+    "storage_bucket": "todolotto-a18aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443587326134:android:86236e24a701cf15",
+        "android_client_info": {
+          "package_name": "com.peisia.todolotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443587326134-j5p5kl653aviqvom0o9usouu14ri2hhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uQ0skiwTJH9cix-M88i-zaCTuBQ129o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443587326134-j5p5kl653aviqvom0o9usouu14ri2hhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
